@@ -27,6 +27,3 @@ I built this project with the help of Lovable and I customized it while learning
 - React (learning)
 - Vite
 - Git & GitHub
-
-npm install
-npm run dev
