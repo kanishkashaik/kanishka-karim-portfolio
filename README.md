@@ -28,6 +28,5 @@ I built this project with the help of Lovable and I customized it while learning
 - Vite
 - Git & GitHub
 
-cd kanishka-karim-portfolio
 npm install
 npm run dev
