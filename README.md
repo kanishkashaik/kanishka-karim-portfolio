@@ -10,8 +10,6 @@ It showcases my skills, projects, and contact information.
 
 I built this project with the help of Lovable and I customized it while learning web development.
 
----
-
 ## 🚀 Features
 
 - Responsive design (mobile + desktop)
@@ -20,8 +18,6 @@ I built this project with the help of Lovable and I customized it while learning
 - Projects showcase
 - Contact section
 - GitHub & LinkedIn links
-
----
 
 ## 🛠️ Technologies Used
 
